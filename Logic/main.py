@@ -2,7 +2,7 @@ from MainFactory import MainFactory
 from Utilities import Utilities
 from YoloUtilities import YoloUtilities
 
-# TODO placeholder list to be brought in with c#
+# todo this is a placeholder for enabled containers.
 enabledContainersList = [True, True, False, False, True, False]
 
 containerlist = MainFactory.buildContainers()
@@ -13,7 +13,6 @@ SourceEnabledContainers = Utilities.getEnabledContainers(containerlist)
 
 enabledInventoryList = Utilities.getAllInventorySlots(SourceEnabledContainers)
 
-# TODO have C# initialize this Function
 fullInventoryList = Utilities.getAllEnabledInventorySlotItems(enabledInventoryList)
 
 destinationContainers = MainFactory.buildContainers()
