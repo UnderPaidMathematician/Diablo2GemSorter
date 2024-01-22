@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="ae34e8e84886e726a4498c2c4a893852e7aa22ba4ef3f618" />
+          <option name="urlString" value="http://127.0.0.1:8888/lab" />
+          <authParams2>
+            <map>
+              <entry key="token" value="ae34e8e84886e726a4498c2c4a893852e7aa22ba4ef3f618" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="ae34e8e84886e726a4498c2c4a893852e7aa22ba4ef3f618" />
+          <option name="urlString" value="http://localhost:8888/lab" />
+          <authParams2>
+            <map>
+              <entry key="token" value="ae34e8e84886e726a4498c2c4a893852e7aa22ba4ef3f618" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Bellevue/DSC_630/.idea/DSC_630.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bellevue/dsc650/dsc650/.idea/dsc650.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Kaggle Projects/.idea/Kaggle Projects.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
